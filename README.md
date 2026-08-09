@@ -1,6 +1,3 @@
-I analyzed the repository and its current README. The project is positioned as an **offline, deterministic, rule-based resume screening and Job Description matching system**, with an `engine`, `frontend`, and `backend`. The current README is very minimal, so it can be significantly improved for GitHub presentation and project evaluation.
-
-Below is a **detailed, professional README** you can directly replace your existing `README.md` with.
 
 # 🎥 Demo
 
