@@ -751,14 +751,6 @@ Add the project's applicable license here.
 
 If this project is intended to be open source, consider adding an appropriate license file such as MIT, Apache-2.0, or another license suitable for your project.
 
----
-
-# 👨‍💻 Author
-
-Developed as a Resume Screening and Job Matching System using a modular JavaScript architecture.
-
-**Repository:**
-[https://github.com/pyro-365/SCORVIA-Resume-Analyzer-](https://github.com/pyro-365/SCORVIA-Resume-Analyzer-)
 
 ---
 
