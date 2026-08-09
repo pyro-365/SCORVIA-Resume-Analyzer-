@@ -2,6 +2,15 @@
 
 An offline, deterministic resume-to-job-description matching system.
 
+# Demo Video
+
+Youtube Link:https://www.youtube.com/watch?v=zxB7HfeOJdk
+Drive Link:https://drive.google.com/file/d/1ffiXXpVG-HSd9mnCA_pdVWgl7GQbQznc/view?usp=drive_link
+
+# Files Link:
+
+ZIP File Drive link:https://drive.google.com/file/d/1uk9HmNNdh9Ah2H-kggcVeqQPRZfNaw-a/view?usp=sharing
+File Drive Link:
 ## Structure
 
 ```
