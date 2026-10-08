@@ -1,0 +1,27 @@
+Senior Full-Stack Software Developer
+
+About the Role:
+We are looking for a Senior Full-Stack Developer to join our engineering team.
+
+Required Skills (Must Have):
+- Python (backend services and data pipelines)
+- SQL (PostgreSQL preferred)
+- Docker (containerization and deployment)
+- Git (version control, GitHub workflows)
+- REST API design and development
+- Minimum 3 years of professional software development experience
+- Bachelor's degree in Computer Science or related field
+
+Preferred Skills (Nice to Have):
+- React.js (frontend development)
+- TypeScript
+- AWS (cloud deployment)
+- Machine Learning (ML model integration)
+- Agile/Scrum methodology
+
+Responsibilities:
+- Design and implement scalable backend services using Python
+- Build and maintain RESTful APIs
+- Collaborate with cross-functional teams using Git workflows
+- Deploy and manage applications using Docker
+- Optimize SQL database queries and schemas

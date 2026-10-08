@@ -1,0 +1,21 @@
+Bob Martinez
+bob.martinez@email.com
+
+Summary
+Junior software developer with 1 year of experience. Familiar with Python basics and SQL.
+
+Skills
+Python, SQL, HTML, CSS, JavaScript
+
+Experience
+Junior Developer — WebAgency (2023–2024)
+- Built basic HTML/CSS/JavaScript web pages
+- Wrote simple Python scripts for data processing
+- No experience with Docker or containerization
+- Limited knowledge of Git workflows
+
+Education
+Bachelor of Science in Information Technology — City College (2023)
+
+Projects
+- Built a basic student database system using SQL

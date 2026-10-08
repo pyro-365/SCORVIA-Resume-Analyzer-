@@ -1,0 +1,23 @@
+{
+  "name": "resume-screening-system",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "engine",
+    "frontend",
+    "backend"
+  ],
+  "scripts": {
+    "start": "node start.js",
+    "lint": "eslint engine/src engine/tests backend/src frontend/src --ext .js,.jsx",
+    "test": "npm run test --workspace=engine",
+    "dev:frontend": "npm run dev --workspace=frontend",
+    "dev:backend": "npm run dev --workspace=backend"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "prettier": "^3.2.5",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.1.3"
+  }
+}
